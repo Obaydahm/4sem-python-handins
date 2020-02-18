@@ -1,0 +1,13 @@
+stud_name, course_name, teacher, ects, classroom, grade, img_url
+Amanda,Software,Andrew,30,205,12,picture.com
+Amanda,Science,Michael,5,202,10,picture.com
+Amanda,Software,Anthony,25,206,7,picture.com
+Amanda,Math,Adam,15,206,0,picture.com
+William,Software,Andrew,30,206,12,picture.com
+William,Business,Michael,20,203,-3,picture.com
+William,Business,Anthony,25,206,-3,picture.com
+William,Research,Yesam,30,203,4,picture.com
+Jane,Science,Adam,20,206,0,picture.com
+Jane,Business,Andrew,20,201,-3,picture.com
+Jane,Software,Andrew,15,203,7,picture.com
+Jane,Math,Adam,5,201,4,picture.com
