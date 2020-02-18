@@ -17,6 +17,13 @@ class Student:
             sum += grade
         return sum / len(grades)
 
+    def get_ects_progressions(self):
+        ects_list = self.data_sheet.get_ects_as_list()
+        sum = 0
+        for ects in ects_list:
+            sum += int(ects)
+        return (100 / 150) * sum
+
     def __repr__(self):
         return "Student(%r,%r,%r,%r)" % (
             self.name,
