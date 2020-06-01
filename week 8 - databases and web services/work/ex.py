@@ -7,7 +7,6 @@ import json
 #Frail Region
 #Spørgsmål 1 mangler, da jeg ikke kan finde test.sql
 
-
 con= pymysql.connect(host="localhost", user="root", password="", db="pyw8")
 engine = create_engine('mysql+pymysql://root:@localhost/pyw8')
 name = "statskode"
